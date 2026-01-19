@@ -7,6 +7,9 @@ on:
       - generate_rss.py
       - .github/workflows/rss.yml
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
