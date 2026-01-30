@@ -28,6 +28,7 @@ https://www.youtube.com/watch?v=sW3GUy-kqmE
 blender:
 https://www.youtube.com/watch?v=gdNNe5T2vco
 https://www.youtube.com/watch?v=1Is3oUvHwdM
+https://www.youtube.com/watch?v=w7KQfRep0Ec
 
 gfx:
 https://www.youtube.com/watch?v=_3qzyAHMoUU
@@ -60,3 +61,4 @@ https://www.youtube.com/watch?v=ydlyMF1JUEE
 
 anime:
 https://www.youtube.com/watch?v=fSvTvahXai8
+https://www.youtube.com/watch?v=SqyVGzaQFpQ
