@@ -32,6 +32,7 @@ https://www.youtube.com/watch?v=HU-3qvlndPs
 https://www.youtube.com/watch?v=i8o2OoRda9s
 https://www.youtube.com/watch?v=D7jmnkKDCaI
 https://www.youtube.com/watch?v=JQQo9bDNKXw
+https://www.youtube.com/watch?v=uOKpfTeF7CQ
 
 blender:
 https://www.youtube.com/watch?v=gdNNe5T2vco
@@ -81,6 +82,7 @@ anime:
 https://www.youtube.com/watch?v=fSvTvahXai8
 https://www.youtube.com/watch?v=SqyVGzaQFpQ
 https://www.youtube.com/watch?v=8NFo1QFz8Ro
+https://www.youtube.com/watch?v=v447KHRS8pc
 
 addons:
 https://superhivemarket.com/products/creative-flow
